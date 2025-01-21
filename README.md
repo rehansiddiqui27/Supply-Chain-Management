@@ -1,6 +1,8 @@
 # 📦 𝐀𝐓𝐋𝐈𝐐 𝐌𝐚𝐫𝐭 𝐒𝐮𝐩𝐩𝐥𝐲 𝐂𝐡𝐚𝐢𝐧 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 🛒
 * Excited to share my latest project where I analyzed supply chain performance for 𝐀𝐓𝐋𝐈𝐐 𝐌𝐚𝐫𝐭, 𝐚 𝐟𝐚𝐬𝐭-𝐠𝐫𝐨𝐰𝐢𝐧𝐠 𝐅𝐌𝐂𝐆 𝐜𝐨𝐦𝐩𝐚𝐧𝐲 𝐢𝐧 𝐆𝐮𝐣𝐚𝐫𝐚𝐭, 𝐈𝐧𝐝𝐢𝐚.The goal was to identify and resolve issues in 𝐎𝐧-𝐓𝐢𝐦𝐞 𝐚𝐧𝐝 𝐈𝐧-𝐅𝐮𝐥𝐥 (𝐎𝐓𝐈𝐅) 𝐝𝐞𝐥𝐢𝐯𝐞𝐫𝐲 𝐦𝐞𝐭𝐫𝐢𝐜𝐬 to improve customer satisfaction and enable expansion into new cities.
 
+![Image](https://github.com/user-attachments/assets/61852053-b38a-429e-ad3f-6caa787cdb7f)
+
 ## 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰:
 * ATLIQ Mart faced service challenges, resulting in some key customers not renewing their contracts. As part of the analytics team, I worked to uncover insights that could improve service levels and drive business decisions.
 
@@ -14,6 +16,8 @@
 * The overall 𝐎𝐓𝐈𝐅% 𝐰𝐚𝐬 𝟏𝟔.𝟏𝟑%, significantly below the target of 66%, with cities like Ahmedabad and Surat showing similar trends.
 * In-Full (IF%) delivery was at 52.78%, and On-Time (OT%) delivery at 59.03%, highlighting delays and incomplete deliveries.
 * Major products like AM Biscuits and AM Curd had higher VOFR and LFIR percentages, suggesting product-level performance insights.
+
+![Image](https://github.com/user-attachments/assets/f0f61c10-be5b-4e17-bb64-70613650d579)
 
 ## 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝:
 * 🔹 Power BI: Created an interactive dashboard to visualize performance trends and identify problem areas.
